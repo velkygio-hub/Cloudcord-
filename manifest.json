@@ -1,0 +1,15 @@
+{
+  "id": "cloudcord-plus",
+  "type": "plugin",
+  "spec": 3,
+  "name": "CloudCord Plus",
+  "description": "Compatibilidade com plugins BetterDiscord (BdApi), 40+ comandos utilitários e features liberadas por usuário.",
+  "version": "1.0.0",
+  "authors": [{ "name": "CloudCord Plus" }],
+  "main": "index.js",
+  "display": {
+    "name": "CloudCord Plus",
+    "description": "Camada BD + comandos + features por usuário",
+    "authors": [{ "name": "CloudCord Plus" }]
+  }
+}
